@@ -68,7 +68,7 @@ This approach is ideal for rapid development and prototyping, especially when st
 ## Related Projects
 
 Explore other implementations:
+- [DAO, Service, REST Controller Version](https://github.com/abdalrhman002/employee-crud-dao-service-rest)
+- [Spring Data JPA Version](https://github.com/abdalrhman002/employee-crud-spring-data-jpa)
 
-- DAO, Service, REST Controller Version
 
-- Spring Data JPA Version
