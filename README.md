@@ -71,4 +71,4 @@ Explore other implementations:
 
 - DAO, Service, REST Controller Version
 
-Spring Data JPA Version
+- Spring Data JPA Version
