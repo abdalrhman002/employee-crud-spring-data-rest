@@ -35,8 +35,8 @@ This project is a RESTful API for managing employee data, built with Spring Boot
 
 3. **Set up the database**:
 
-    - Create a MySQL database named `employee_db`.
-    - Update `application.properties` with your database credentials.
+   - Create a MySQL database named `employee_db`.
+   - Update `application.properties` with your database credentials.
 
 4. **Run the application**:
 
@@ -46,8 +46,8 @@ This project is a RESTful API for managing employee data, built with Spring Boot
 
 5. **Access Swagger UI**:
 
-    - Open your browser and go to `http://localhost:8080/ui.html`.
-    - Use Swagger UI to explore and test the auto-generated API endpoints, including HATEOAS links.
+   - Open your browser and go to `http://localhost:8080/ui.html`.
+   - Use Swagger UI to explore and test the auto-generated API endpoints, including HATEOAS links.
 
 ## Approach Explanation
 
@@ -68,7 +68,7 @@ This approach is ideal for rapid development and prototyping, especially when st
 ## Related Projects
 
 Explore other implementations:
+- [DAO, Service, REST Controller Version](https://github.com/abdalrhman002/employee-crud-dao-service-rest)
+- [Spring Data JPA Version](https://github.com/abdalrhman002/employee-crud-spring-data-jpa)
 
-- DAO, Service, REST Controller Version
 
-Spring Data JPA Version
